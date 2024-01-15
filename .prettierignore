@@ -1,0 +1,4 @@
+bun.lockb
+.git/
+.next/
+node_modules/
